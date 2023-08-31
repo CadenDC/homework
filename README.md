@@ -22,3 +22,5 @@ Module 8:
 - made it 27% of the way through, couldnt get rid of bug, even after trying the 
 new name and downloading the code. Will try to come back to it later
 Module : 9
+- "I LOVE R!"
+- pasting and arguments 
