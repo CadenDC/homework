@@ -15,3 +15,5 @@ Module 5:
 - Logic, Nan, Infinity, NA
 module 6:
 - subvectors, vector names 
+module 7:
+- names and matrix stuff
