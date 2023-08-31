@@ -13,3 +13,5 @@ Module 4:
 - a little recycling, some logic
 Module 5:
 - Logic, Nan, Infinity, NA
+module 6:
+- subvectors, vector names 
