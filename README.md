@@ -24,3 +24,5 @@ new name and downloading the code. Will try to come back to it later
 Module : 9
 - "I LOVE R!"
 - pasting and arguments 
+module 12:
+- Plants, str()
