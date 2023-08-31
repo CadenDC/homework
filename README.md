@@ -17,3 +17,8 @@ module 6:
 - subvectors, vector names 
 module 7:
 - names and matrix stuff
+Module 8: 
+- logical opperators
+- made it 27% of the way through, couldnt get rid of bug, even after trying the 
+new name and downloading the code. Will try to come back to it later
+Module : 9
